@@ -15,4 +15,13 @@ Features:
 -Strong Community and Ecosystem, etc.
 
 create components --> make data if you need it --> link the data and change the data whenever you want --> react will react
+vite - react raw app creation
+component->>parent component->>parent component to the body
+
+componet is a functio which returns jsx
+jsx - snytax like html with extra features than html
+
+<></> react fragment
+
+styling in react - modulecss, tailwindcss, materialui
 
