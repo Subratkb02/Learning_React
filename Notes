@@ -4,3 +4,15 @@ For big applications :
     Very Very less page reloads
     extreme use of reusable components
     very efficient and have more opportunity
+Features:
+-Component-Based Architecture
+-Virtual DOM
+-JSX
+-Unidirectional Data Flow
+-Extensions
+-Simplicity
+-Performance Optimization
+-Strong Community and Ecosystem, etc.
+
+create components --> make data if you need it --> link the data and change the data whenever you want --> react will react
+
